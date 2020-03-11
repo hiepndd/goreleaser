@@ -1,0 +1,4 @@
+951f910cccdc8373816109bd0a940e55423fb60bac5ece3543242f7ab26ff2f7  example_v0.0.0-next_Darwin_x86_64.tar.gz
+90076ca29a827a23a32345441f696e16e3084b93f7e6f069bbb23adcdee6293b  example_v0.0.0-next_Darwin_i386.tar.gz
+04d824f0dc27e13afc9b8ef848e8f4a076bf910142d1dea4df092be22f1de6f6  example_v0.0.0-next_Linux_x86_64.tar.gz
+d07ec3daf540920971ed61237e4e3f34bbc14cfe28c610f7f33bd09ce0f5512e  example_v0.0.0-next_Linux_i386.tar.gz
